@@ -15,7 +15,18 @@ We may collect the following types of information:
 
 - **Information you provide:** Name, email, phone number  
 - **Usage data:** Device information, in‑app interactions  
-- **Location data:** Only if you grant permission  
+- **Location data:** Only if you grant permission
+
+
+---
+
+## 2. How to delete your account in Rebaiy
+Follow the following steps to delete your account:
+
+- **1:** Log into the app
+- **2:** Click on the settings icon to navigate to the settings page
+- **3:** Click on the Delete Account Button there
+- **4:** Fill out the form and click confirm to delete your account
 
 ---
 
